@@ -50,7 +50,7 @@ export default defineComponent({
   },
   methods: {
     initSmooch() {
-      const agent = "788ce9ba-93e3-41a2-88bd-9bf2254c0ce8";
+      const agent = "b94571c2-1bd3-4ec1-8789-d939fa680f89"; //"788ce9ba-93e3-41a2-88bd-9bf2254c0ce8";
       const delegate = {
         beforeSend(message: any, data: any) {
           /* if (data.conversation.id === '<conversation-id>' && message.role === 'user') {
