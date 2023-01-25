@@ -50,7 +50,7 @@ export default defineComponent({
   },
   methods: {
     initSmooch() {
-      const agent = "b94571c2-1bd3-4ec1-8789-d939fa680f89"; //"788ce9ba-93e3-41a2-88bd-9bf2254c0ce8";
+      const agent = 'B0CB8EFE-53E9-410C-837B-715CE6F47FA5' //  "b94571c2-1bd3-4ec1-8789-d939fa680f89"; //"788ce9ba-93e3-41a2-88bd-9bf2254c0ce8";
       const delegate = {
         beforeSend(message: any, data: any) {
           /* if (data.conversation.id === '<conversation-id>' && message.role === 'user') {
@@ -68,16 +68,16 @@ export default defineComponent({
       };
       Smooch.init({
         delegate,
-        integrationId: "62deaa89bc120d00efffef7a",
+        integrationId:'5efb8d0407910c000c9c66a1', // [Auria]"62deaa89bc120d00efffef7a",
         menuItems: {
           imageUpload: false,
           fileUpload: false,
           shareLocation: false,
         },
         customColors: {
-          brandColor: "1b140c",
-          conversationColor: "c59559",
-          actionColor: "705533",
+          brandColor: "f47920",
+          conversationColor: "f47920",
+          actionColor: "f47920",
         },
 
         customText: {
