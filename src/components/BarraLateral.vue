@@ -1,6 +1,6 @@
 <template>
   <header>
-    <h1><img src="../assets/logo.png" alt="" width="100" /></h1>
+    <h1 style="margin-top: 15em;"><img src="../assets/unitel.png" alt="" style="width: 75%;" /></h1>
     <button class="button" @click="alterarTema()">
       <i class="fa-solid fa-repeat"></i> {{textoBotao}}
     </button>
@@ -41,8 +41,9 @@ export default defineComponent({
   margin-right: 1rem;
 }
 header {
+  
   padding: 1rem;
-  background: #1d1d1b;
+  background: #fafafa;
   width: 100%;
   height: 100vh;
   text-align: center;
