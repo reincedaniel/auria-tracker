@@ -68,7 +68,7 @@ export default defineComponent({
       };
       Smooch.init({
         delegate,
-        integrationId:'62deaa89bc120d00efffef7a', // [recrutamneto]'5efb8d0407910c000c9c66a1'
+        integrationId:'5efb8d0407910c000c9c66a1', // [Auria]"62deaa89bc120d00efffef7a",
         menuItems: {
           imageUpload: false,
           fileUpload: false,
