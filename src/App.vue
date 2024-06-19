@@ -75,9 +75,9 @@ export default defineComponent({
           shareLocation: false,
         },
         customColors: {
-          brandColor: "002d74",
-          conversationColor: "002d74",
-          actionColor: "002d74",
+          brandColor: "1b79ae",
+          conversationColor: "1b79ae",
+          actionColor: "1b79ae",
         },
 
         customText: {

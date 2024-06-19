@@ -1,6 +1,6 @@
 <template>
   <header>
-    <h1 style="margin-top: 15em;"><img src="../assets/logo-bai.svg" alt="" style="width: 48%;" /></h1>
+    <h1 style="margin-top: 15em;"><img src="../assets/logo2.webp" alt="" style="width: 85%;" /></h1>
     <button style="margin-top: 1.1em;" class="button" @click="alterarTema()">
       <i class="fa-solid fa-repeat"></i> {{textoBotao}}
     </button>
@@ -43,7 +43,7 @@ export default defineComponent({
 header {
   
   padding: 1rem;
-  background: #002d74;
+  background: #1b79ae;/*#002d74;*/
   width: 100%;
   height: 100vh;
   text-align: center;
