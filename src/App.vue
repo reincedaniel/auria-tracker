@@ -68,7 +68,7 @@ export default defineComponent({
       };
       Smooch.init({
         delegate,
-        integrationId: "62deaa89bc120d00efffef7a",
+        integrationId: "66fea65c20316d00fe9f0cc3", // "62deaa89bc120d00efffef7a",
         menuItems: {
           imageUpload: false,
           fileUpload: false,
