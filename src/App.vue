@@ -74,11 +74,11 @@ export default defineComponent({
           fileUpload: false,
           shareLocation: false,
         },
-        customColors: {
+        /*customColors: {
           brandColor: "1b140c",
           conversationColor: "c59559",
           actionColor: "705533",
-        },
+        },*/
 
         customText: {
           syncConversation: "Sincronizar conversa",
