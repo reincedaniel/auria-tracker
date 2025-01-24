@@ -84,7 +84,7 @@ export default defineComponent({
           syncConversation: "Sincronizar conversa",
           linkChannelPageHeader: "Sincronizar sua conversa",
           connectNotificationText:
-            "Sincronize sua conversa e continue nos enviando mensagens através do seu aplicativo favorito.",
+            "Sincronize sua conversa e continue a enviar-nos mensagens através do seu aplicativo favorito.",
           viberChannelDescription:
             "Conecte sua conta do Viber para ser notificado quando receber uma resposta e continue a conversa no Viber. Para começar, digitalize o código QR usando o aplicativo Viber.",
           telegramChannelDescription:
