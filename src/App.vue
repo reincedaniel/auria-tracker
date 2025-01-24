@@ -81,6 +81,8 @@ export default defineComponent({
         },*/
 
         customText: {
+          smsSendText: 'Enviar uma Mensagem',
+          smsStartTexting: 'Começar',
           syncConversation: "Sincronizar conversa",
           linkChannelPageHeader: "Sincronizar sua conversa",
           connectNotificationText:
