@@ -91,6 +91,8 @@ export default defineComponent({
             "Conecte sua conta do Telegram para ser notificado quando receber uma resposta e continuar a conversa no Telegram",
           messengerChannelDescription:
             "Conecte sua conta do Facebook Messenger para ser notificado quando receber uma resposta e continue a conversa no Facebook Messenger.",
+            smsSendText: 'Send me a text',
+        smsStartTexting: 'Start Texting',
           //Labels da caixa de envio
           headerText: "Posso ajudar?",
           inputPlaceholder: "Digite a mensagem...",
