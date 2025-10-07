@@ -125,6 +125,8 @@ export default defineComponent({
             conversationColor: '65758e',
             actionColor: '65758e',
         }, */
+         integrationOrder: [],
+        notificationChannelPromptEnabled: false,
       });
     },
     salvarTarefa(tarefa: ITarefa) {
